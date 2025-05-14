@@ -1,0 +1,20 @@
+[
+    {
+        "game_name": "title",
+        "max_trophys": 2
+    },
+    {
+        "0": {
+            "title": "Pare de comer",
+            "description": "Coma 1kg",
+            "unlocked": 1,
+            "has_popup": 1
+        },
+        "1": {
+            "title": "Que Horror!",
+            "description": "Se olhe no espelho",
+            "unlocked": 1,
+            "has_popup": 1
+        }
+    }
+]
